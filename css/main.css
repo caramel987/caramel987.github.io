@@ -1224,7 +1224,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ff1d93;
+    background: #96e0ff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2880,4 +2880,8 @@ nav {
   border-radius: 10px; /* 圆角效果 */
   box-shadow: 0 4px 15px rgba(0,0,0,0.2); /* 添加阴影 */
   padding: 20px; /* 增加内边距 */
+}
+.search-box {
+  width: 80%;
+  margin: 20px auto;
 }
